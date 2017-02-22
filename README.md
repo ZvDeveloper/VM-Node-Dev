@@ -24,6 +24,17 @@ git clone git@github.com:ZavaDeveloper/VM-Node-Dev.git
 ```
 
 ##### Iniciando a VM
+
+Antes de criar a máquina, digite o seguinte comando para instalar o plugin do VirtualBox Guest Additions:
+
+```
+vagrant plugin install vagrant-vbguest
+```
+
+Esse plugin fará a verificação da versão do VirtualBox Guest Additions e o manterá sempre atualizado.
+
+Depois, basta digitar o seguinte comando para a criação:
+
 ```
 vagrant up
 ```
