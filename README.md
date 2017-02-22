@@ -1,6 +1,6 @@
 # :book: VM-Node-Dev
 
-Arquivo de configuração do vagrant para criação de Máquina Virtual(VM) com ambiente de desenvolvimento pré-definido.
+Arquivo de configuração do vagrant para criação de Máquina Virtual(VM) com ambiente de desenvolvimento pré-definido para Node.js
 
 
 ## :construction: Pré-requisitos
