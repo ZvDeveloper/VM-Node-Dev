@@ -46,7 +46,7 @@ Esse arquivo de configuração contém o sistema operacional :penguin:**Ubuntu 1
 * [Git]() - Sistema de controle de versão distribuído e sistema de gerenciamento de código fonte
 * [Visual Studio Code](https://code.visualstudio.com/) - Editor de código-fonte
 
-![configuracoes](https://lh3.googleusercontent.com/-mC9OFyyFps0/WKYBVbn_VgI/AAAAAAAACpw/h821_F5FIzwrHRSdwChhyyme7PfxWNqqACL0B/h1080/2017-02-16.png)
+![configuracoes](/Imagens/config.png)
 
 
 ## :information_source: Alterações da VM
@@ -123,4 +123,3 @@ Outros comandos podem ser encontrados na documentação do [Vagrant](https://www
 
 * **Eder** - *Developer* - [@ZavaDev](https://github.com/ZavaDev)
 * **Patrick** - *Developer* - [@PatrickZava](https://github.com/PatrickZava)
-
