@@ -121,5 +121,5 @@ Outros comandos podem ser encontrados na documentação do [Vagrant](https://www
 
 ## :heart: Autores
 
-* **Eder** - *Developer* - [@ZavaDev](https://github.com/ZavaDev)
-* **Patrick** - *Developer* - [@PatrickZava](https://github.com/PatrickZava)
+* **Eder** - *Developer* - [@Eder](https://github.com/EdZava)
+* **Patrick** - *Developer* - [@Patrick](https://github.com/PatrickZava)
