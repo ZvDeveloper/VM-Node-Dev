@@ -54,7 +54,7 @@ Esse arquivo de configuração contém o sistema operacional :penguin:**Ubuntu 1
 * [Node.js (7.5.0)](https://nodejs.org) - plataforma para desenvolvimento server-side utilizando JavaScript
 * [PostgreSQL](https://www.postgresql.org/) - Sistema gerenciador de banco de dados objeto relacional
 * [MongoDB](https://www.mongodb.com/) - Banco de dados orientado a documentos de alta performance
-* [Git]() - Sistema de controle de versão distribuído e sistema de gerenciamento de código fonte
+* [Git](https://git-scm.com/) - Sistema de controle de versão distribuído e sistema de gerenciamento de código fonte
 * [Visual Studio Code](https://code.visualstudio.com/) - Editor de código-fonte
 
 ![configuracoes](/Imagens/config.png)
