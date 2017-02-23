@@ -58,8 +58,8 @@ Vagrant.configure("2") do |config|
       nvm install
 
       #Node.JS
-      nvm install 7.5.0
-      nvm use 7.5.0
+      nvm install 7.6.0
+      nvm use 7.6.0
   SHELL
 
   config.vm.provision "shell", inline: <<-SHELL
@@ -90,6 +90,14 @@ Vagrant.configure("2") do |config|
       echo -e '[Desktop Entry]\n Version=1.0\n Name=vscode\n Exec=/opt/vscode/code --disable-gpu\n Icon=/opt/vscode/resources/app/resources/linux/code.png\n Type=Application\n Categories=Application' | sudo tee /usr/share/applications/vscode.desktop
       sudo chmod +x /usr/share/applications/vscode.desktop
       cp /usr/share/applications/vscode.desktop ~/Desktop
+
+      echo '( Sua máquina está pronta, faça bom proveito! )'
+      echo ' --------------------------------------------'
+      echo '            o     ^__^ '
+      echo '              o   (oo)\________ '
+      echo '                  (__)\        )\\\_  '
+      echo '                      ||----w | '
+      echo '                      ||     || '
 
   SHELL
 
