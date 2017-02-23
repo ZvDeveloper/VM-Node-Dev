@@ -11,6 +11,14 @@ Para poder montar a Máquina Virtual(VM), é necessário que algumas aplicaçõe
 * [Vagrant](https://www.vagrantup.com/) - Criar o ambiente (:apple: MacOS - *brew cask install vagrant*)
 * [VirtualBox](https://www.virtualbox.org/) - Virtualização da máquina (:apple: MacOS - *brew cask install virtualbox*)
 
+Antes de criar a máquina, digite o seguinte comando para instalar o plugin do VirtualBox Guest Additions:
+
+```
+vagrant plugin install vagrant-vbguest
+```
+
+Esse plugin fará a verificação da versão do VirtualBox Guest Additions e o manterá sempre atualizado.
+
 
 ## :computer: Iniciando
 
@@ -24,14 +32,6 @@ git clone git@github.com:ZavaDeveloper/VM-Node-Dev.git
 ```
 
 ##### Iniciando a VM
-
-Antes de criar a máquina, digite o seguinte comando para instalar o plugin do VirtualBox Guest Additions:
-
-```
-vagrant plugin install vagrant-vbguest
-```
-
-Esse plugin fará a verificação da versão do VirtualBox Guest Additions e o manterá sempre atualizado.
 
 Depois, basta digitar o seguinte comando para a criação:
 
